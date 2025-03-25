@@ -1,5 +1,7 @@
 # ResumeXpert.in
 
+⚠️ **Note:** This project is currently in the **working phase**. New features and improvements are being actively developed! Stay tuned for updates.  
+
 ## 🚀 Problem Statement
 Many job seekers struggle to create resumes that pass **Applicant Tracking System (ATS)** filters. Common issues include:
 - Improper formatting that makes resumes unreadable by ATS.
