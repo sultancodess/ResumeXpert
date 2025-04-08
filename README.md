@@ -41,7 +41,7 @@ Many job seekers struggle to create resumes that pass **Applicant Tracking Syste
 |---------------|-------------------------|
 | **Sultan Alam** | Full Stack Developer     |
 | **Yash Tupkar** | Full Stack Developer     |
-| **Suhani Thakre** | Frontend Developer     |
+
 
 ## 📄 Why LaTeX?
 LaTeX is used in **ResumeXpert** to ensure professional, structured formatting that is **ATS-friendly**, helping job seekers create polished and optimized resumes effortlessly.
